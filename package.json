@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "iv",
+        "label": "iv : spade",
         "uiTheme": "vs-dark",
-        "path": "./themes/iv-color-theme.json"
+        "path": "./themes/iv-spade.json"
       }
     ]
   }
