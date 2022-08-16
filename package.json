@@ -1,0 +1,21 @@
+{
+  "name": "iv",
+  "displayName": "iv",
+  "description": "a dark vibrant colorscheme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "iv",
+        "uiTheme": "vs-dark",
+        "path": "./themes/iv-color-theme.json"
+      }
+    ]
+  }
+}
