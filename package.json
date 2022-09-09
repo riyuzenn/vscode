@@ -33,7 +33,7 @@
     "clean"
 	],
   "galleryBanner": {
-    "color": "#0c0c0c",
+    "color": "#121212",
     "theme": "dark"
   },
   "contributes": {
