@@ -1790,7 +1790,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#62848395"
+        "foreground": "#454545"
       }
     },
     {
@@ -1939,6 +1939,12 @@
     "editor.wordHighlightStrongBackground": "#1d1d1de5",
     "editor.wordHighlightStrongBorder": "#ff000000",
     "editor.wordHighlightBackground": "#9d7b7d",
+    "editorBracketHighlight.foreground1": "#937193",
+		"editorBracketHighlight.foreground2": "#8593a7",
+		"editorBracketHighlight.foreground3": "#9898a690",
+		"editorBracketHighlight.foreground4": "#937193ab",
+		"editorBracketHighlight.foreground5": "#c1a174",
+		"editorBracketHighlight.foreground6": "#fdfdfe90",
     "editor.lineHighlightBackground": "#42455e3c",
     "editor.lineHighlightBorder": "#28282800",
     "editorLineNumber.activeForeground": "#a79293",
@@ -1946,8 +1952,8 @@
     "editorIndentGuide.background": "#3535356a",
     "editorIndentGuide.activeBackground": "#151515",
     "editorRuler.foreground": "#42455e44",
-    "editorBracketMatch.background": "#3d2f3d",
-    "editorBracketMatch.border": "#88888800",
+    "editorBracketMatch.background": "#00000000",
+    "editorBracketMatch.border": "#262626",
     "editor.foldBackground": "#15151593",
     "editorOverviewRuler.background": "#151515c3",
     "editorOverviewRuler.border": "#42455e80",
