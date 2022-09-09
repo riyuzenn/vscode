@@ -1,14 +1,41 @@
 {
+  "icon": "assets/logo.png",
   "name": "iv",
   "displayName": "iv",
+  "publisher": "riyuzenn",
+  "license": "MIT",
   "description": "a dark vibrant colorscheme",
   "version": "0.0.1",
+  "repository": { 
+    "url": "https://github.com/riyuzenn/vscode"
+  },
+  "funding": "https://github.com/riyuzenn/vscode?sponsor=1",
+	"sponsor": {
+		"url": "https://github.com/riyuzenn/vscode?sponsor=1"
+	},
+	"author": {
+		"name": "zenn",
+		"email": "riyuzenn@gmail.com"
+	},
+	"type": "module",
   "engines": {
     "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+		"minimal",
+		"aesthetic",
+		"pastel",
+		"dark",
+		"soft",
+    "clean"
+	],
+  "galleryBanner": {
+    "color": "#0c0c0c",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
