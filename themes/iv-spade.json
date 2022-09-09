@@ -2180,8 +2180,8 @@
     "welcomePage.background": "#0C0C0C",
 		"welcomePage.buttonBackground": "#111",
 		"welcomePage.buttonHoverBackground": "#1515159a",
-		"window.activeBorder": "#1f1d2e",
-		"window.inactiveBorder": "#1f1d2e"
+		"window.activeBorder": "#131313",
+		"window.inactiveBorder": "#131313"
 
   }
 }
