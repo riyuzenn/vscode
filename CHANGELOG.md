@@ -12,3 +12,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Fix minimap background & hover color
 - Change window border color
+
+## [v0.0.3]
+
+- Change scrollbar color
+- Change error & warning linting colors
